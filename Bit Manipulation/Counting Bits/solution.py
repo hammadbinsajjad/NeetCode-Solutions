@@ -1,3 +1,4 @@
+from typing import List
 class Solution:
     def count1s(self, n):
         x = 1
